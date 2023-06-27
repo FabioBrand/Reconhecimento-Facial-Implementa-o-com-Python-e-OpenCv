@@ -1,0 +1,1 @@
+# Reconhecimento-Facial-Implementa-o-com-Python-e-OpenCv
